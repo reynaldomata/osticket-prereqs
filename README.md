@@ -25,8 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10 VM using Azure
 - PHP, mySQL, HeidiSQL, and osTicket
 - Setup osTicket database
-- Item 4
-- Item 5
+
 
 <h2>Installation Steps</h2>
 
