@@ -22,15 +22,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## List of Prerequisites
 
-1. [Create a virtual machine in Azure and access it using Remote Desktop](https://github.com/dtaylor15/osTicket-Prereqs-Installation#create-a-virtual-machine-in-azure-and-access-it-using-remote-desktop)
+1. [Create a virtual machine in Azure and access it using Remote Desktop](https://github.com/reynaldomata/osticket-prereqs#create-a-virtual-machine-in-azure-and-access-it-using-remote-desktop)
 
     - Microsoft Remote Desktop for [MacOS](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
-2. [Access the required installation files](https://github.com/dtaylor15/osTicket-Prereqs-Installation#access-the-required-installation-files) 
-3. [Enable IIS and subsequent features in Windows VM](https://github.com/dtaylor15/osTicket-Prereqs-Installation#enable-iis-and-subsequent-features-in-windows-vm)
-4. [Download and install the required installation files](https://github.com/dtaylor15/osTicket-Prereqs-Installation#download-and-the-install-the-required-installation-files)
-5. [Setup osTicket](https://github.com/dtaylor15/osTicket-Prereqs-Installation#setup-osticket)
-6. [Access your osTicket helpdesk admin login and end-user page](https://github.com/dtaylor15/osTicket-Prereqs-Installation#access-your-helpdesk-admin-login-and-end-user-page)
-7. [Clean up your setup and permissions](https://github.com/dtaylor15/osTicket-Prereqs-Installation#clean-up-your-setup-and-permissions)
+2. [Access the required installation files](https://github.com/reynaldomata/osticket-prereqs#access-the-required-installation-files) 
+3. [Enable IIS and subsequent features in Windows VM](https://github.com/reynaldomata/osticket-prereqs#enable-iis-and-subsequent-features-in-windows-vm)
+4. [Download and install the required installation files](https://github.com/reynaldomata/osticket-prereqs#download-and-the-install-the-required-installation-files)
+5. [Setup osTicket](https://github.com/reynaldomata/osticket-prereqs#setup-osticket)
+6. [Access your osTicket helpdesk admin login and end-user page](https://github.com/reynaldomata/osticket-prereqs#access-your-helpdesk-admin-login-and-end-user-page)
+7. [Clean up your setup and permissions](https://github.com/reynaldomata/osticket-prereqs#clean-up-your-setup-and-permissions)
 
 ## Installation Steps
 
