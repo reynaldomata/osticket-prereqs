@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1. [Create a virtual machine in Azure and access it using Remote Desktop](https://github.com/reynaldomata/osticket-prereqs#create-a-virtual-machine-in-azure-and-access-it-using-remote-desktop)
 
     - Microsoft Remote Desktop for [MacOS](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
-2. [Access the required installation files](https://github.com/reynaldomata/osticket-prereqs#access-the-required-installation-files) 
+2. [Access the required installation files](https://github.com/reynaldomata/osticket-prereqs#access-the-required-installation-files)  
 3. [Enable IIS and subsequent features in Windows VM](https://github.com/reynaldomata/osticket-prereqs#enable-iis-and-subsequent-features-in-windows-vm)
 4. [Download and install the required installation files](https://github.com/reynaldomata/osticket-prereqs#download-and-the-install-the-required-installation-files)
 5. [Setup osTicket](https://github.com/reynaldomata/osticket-prereqs#setup-osticket)
